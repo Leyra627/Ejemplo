@@ -1,8 +1,6 @@
 <html>
 <head>
 <body>
-/** lo agrego esto para ver la modificacion y vuelvo a subir en mi pagina, teoricamente tiene que subir este archivo modificado **/
-
 <?php
  
 echo("Su nombre es: ".$_GET['nombre']."<br>");
